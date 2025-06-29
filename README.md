@@ -35,4 +35,4 @@ Aviation regulators and airline companies need insights to improve flight safety
 
 ---
 
-_Made by Narcisse Mutabaruka for Moringa School Phase 1 Data Science Project._
+_Made by Narcisse Mutabaruka_
